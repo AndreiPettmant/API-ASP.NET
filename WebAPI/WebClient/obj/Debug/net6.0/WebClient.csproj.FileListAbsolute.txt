@@ -1,0 +1,15 @@
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\bin\Debug\net6.0\WebClient.exe
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\bin\Debug\net6.0\WebClient.deps.json
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\bin\Debug\net6.0\WebClient.runtimeconfig.json
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\bin\Debug\net6.0\WebClient.dll
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\bin\Debug\net6.0\WebClient.pdb
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.dll
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\refint\WebClient.dll
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.pdb
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\WebClient.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\GitHub\WebAPI\API-ASP.NET\WebAPI\WebClient\obj\Debug\net6.0\ref\WebClient.dll
